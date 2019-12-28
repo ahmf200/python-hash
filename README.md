@@ -1,4 +1,4 @@
-This tool hashes a file you choose, in MD5, SHA1, SHA256 or SHA512.
+This tool hashes a file you choose, in MD5, SHA1, SHA256 or SHA512. Strictly for educational purposes.
 
 To run:
 
